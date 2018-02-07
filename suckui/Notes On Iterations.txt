@@ -1,0 +1,9 @@
+Data Set One with 20 mmHg cutoff
+Total Iterations = 19929
+Second While Loop = 19905
+Third While Loop = 24
+
+Data Set One with 10000 mmHg cutoff
+Total Iterations = 4395
+Second While Loop = 2555
+Third While Loop = 21
